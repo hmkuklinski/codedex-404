@@ -1,6 +1,6 @@
 # 404 Project
 
-![image](https://github.com/hmkuklinski/codedex-404/assets/143479397/08daf8e1-39b4-466d-b47b-96c5004df46d)
+![404error](https://github.com/hmkuklinski/codedex-404/assets/143479397/c853fbe4-20bc-44ad-b211-62f56fbea9bc)
 ![image](https://github.com/hmkuklinski/codedex-404/assets/143479397/1132122f-28e1-4b10-961d-3134ce112527)
 
 
